@@ -75,4 +75,4 @@ if __name__ == "__main__":
     start = int(input("Start port: ").strip())
     end = int(input("End port: ").strip())
 
-    scan_range(target_host, start, end)
+    scan_range(target_host, start, end)   
